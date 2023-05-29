@@ -1,12 +1,13 @@
 /* Estilos para el texto */
 * {
-    font-family: Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 /* Estilos para los headings */
 h1 {
   background-color: crimson;
-  margin-left: 20px;
+  margin: 0;
+  padding: 10px 20px;
 }
 
 /* Estilos para los enlaces */
