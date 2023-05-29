@@ -1,0 +1,15 @@
+/* Estilos para el texto */
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+/* Estilos para los headings */
+h1 {
+  background-color: crimson;
+  margin-left: 20px;
+}
+
+/* Estilos para los enlaces */
+a {
+  color: crimson;
+}
